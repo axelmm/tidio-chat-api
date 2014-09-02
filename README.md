@@ -3,7 +3,7 @@
 Tidio Chat API library allows you to adjust Tidio Chat to fits your specific requirements.
 
 ##### Attention!!!
-Tidio Chat API is integral part of Tidio Chat and it can be called only after adding the code on site, if you didn't use our Tidio Chat, then visit our site > https://www.tidiochat.com/signup to create new account.
+Tidio Chat API is integral part of Tidio Chat and it can be called only after adding the code on site, if you didn't use our Tidio Chat, then visit our site https://www.tidiochat.com/signup to create new account.
 
 ----
 
